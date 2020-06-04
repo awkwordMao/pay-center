@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lzw</groupId>
-	<artifactId>paycenter</artifactId>
+	<artifactId>pay-center</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>paycenter</name>
 	<description>payment server</description>
